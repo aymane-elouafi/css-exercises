@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-p {
+    background-color: #d68d8d;
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+
+#blue-div {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd-p.second {
+    font-size: 24px;
+}
+
+#green-div {
+    background-color: hsl(120, 100%, 62%);
+    font-size: 24px;
+}
